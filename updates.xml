@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="hoohiegkfgelbgkeflkodjgeeliogcca">
     <updatecheck
-      codebase="https://se-team-maker.github.io/meet-class-assistant-distribution/MeetClassAssistant-1.0.0.crx"
+      codebase="https://se-team-maker.github.io/meet-class-assistant-distribution/MeetRecordingGuard-kyotoijuku.crx"
       version="1.0.0" />
   </app>
 </gupdate>
